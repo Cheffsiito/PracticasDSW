@@ -1,0 +1,58 @@
+* {
+  background: rgb(165, 255, 203); /* Verde claro */
+  padding: 0;
+  margin: 0;
+}
+
+header, nav, footer, #contenedor {
+  width: 100%;
+}
+
+body {
+  height: 100vh;
+}
+
+header, footer {
+  height: 10%;
+  background: rgb(255, 203, 126); /* Naranja claro */
+  border-style: groove;
+  border-color: silver;
+  border-width: 2px; /* Añadido borde */
+}
+
+footer {
+  background: rgb(226, 126, 185); /* Rosa claro */
+}
+
+nav {
+  height: 7%;
+  background: rgb(226, 185, 255); /* Morado claro */
+  margin-top: 3mm;
+  border-style: groove;
+  border-color: silver;
+  border-width: 2px; /* Añadido borde */
+}
+
+#contenedor {
+  height: 70%;
+  display: flex;
+  justify-content: space-around;
+  border-style: groove;
+}
+
+article {
+  background: rgb(154, 230, 125); /* Verde claro */
+  width: 25%;
+  border-style: groove;
+  margin: 7mm;
+  border-color: silver;
+}
+
+section {
+  background: rgb(215, 165, 217); /* Lavanda claro */
+  width: 50%;
+  border-style: groove;
+  margin-top: 7mm;
+  margin-bottom: 7mm;
+  border-color: silver;
+}
