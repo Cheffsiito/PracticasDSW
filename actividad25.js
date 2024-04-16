@@ -1,4 +1,3 @@
-// Daniel Jimenez Manrique
 function OpereacionesMatematicas(a, b) {
     var a = parseInt(prompt("Ingrese el primer numero: "));
     var b = parseInt(prompt("Ingrese el segundo numero: "));
