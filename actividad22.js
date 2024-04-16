@@ -1,5 +1,3 @@
-// Daniel Jimenez Manrique
-
 // var i = 10;
 
 // while (i <= 20){
