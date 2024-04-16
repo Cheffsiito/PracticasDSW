@@ -1,4 +1,4 @@
-// Daniel Jimenez Manrique
+
 var diasSemana = [];
 
 function capturarDias() {
