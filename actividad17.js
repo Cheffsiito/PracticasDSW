@@ -1,4 +1,4 @@
-// Daniel Jimenez Manrique
+
 function operacionesMatematicas () {
     var num1 = 10;
     var num2 = 10;
