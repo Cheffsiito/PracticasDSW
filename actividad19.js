@@ -1,4 +1,4 @@
-// Daniel Jimenez Manrique
+
 
 function actividad19 () {
 
